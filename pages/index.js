@@ -24,7 +24,7 @@ export default function Home() {
             </main>
             <footer>
                 <a href='https://www.linkedin.com/in/alfredoarriolajr/'>
-                    By - Alfredo Arriola Jr.
+                    Alfredo Arriola Jr.
                 </a>
             </footer>
 
